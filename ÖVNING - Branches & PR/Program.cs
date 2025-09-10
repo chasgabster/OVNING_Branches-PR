@@ -7,6 +7,13 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("Initierar projekt");
+
+            int number = -1;
+
+            while (number != 0)
+            {
+
+            }
         }
     }
 }
